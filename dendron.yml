@@ -19,6 +19,8 @@ site:
         action: useVault
         payload:
             - vault
+    siteUrl: http://dsotm-rsa.space
+    assetsPrefix: /smooth-rhino
 commands:
     lookup:
         note:
