@@ -48,5 +48,5 @@ jobs:
         publish_branch: pages
         publish_dir: docs/
         force_orphan: true
-        cname: dsotm-rsa.space
+        #cname: dsotm-rsa.space
 				
